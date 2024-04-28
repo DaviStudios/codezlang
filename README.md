@@ -15,7 +15,7 @@ CodeZlang doesn't support spaces in strings etc, so for example, "say hello worl
 Make sure EVERY LINE ends with an "rn" keyword.
 
 **keywords:**
-**lit** -- variable declaration, example: lit a be sup|yall rn
+**lit** -- variable declaration, example: lit a be sup|yall rn \n
 **say** -- printing function, example: say sup|yall rn
 **rand** -- random number, example: rand do (variable name to store the result) 1 100
 **do** -- do something, mostly used in functions like rand
