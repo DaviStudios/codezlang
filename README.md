@@ -1,6 +1,5 @@
-!(more/logo.png)
+![**CodeZlang**](more/logo.png)
 
-**CodeZlang**
 CodeZlang is an funny, basic programming language made in Python. It uses the GenZ Slang as its syntax, example:
 "
 lit a be hello rn
