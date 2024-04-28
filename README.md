@@ -21,3 +21,10 @@ Make sure EVERY LINE ends with an "rn" keyword.
 **do** -- do something, mostly used in functions like rand
 **be** -- declarator, mostly used in declarations like lit
 **rn** -- line ender
+
+**downloading and usage:**
+1. download this zip file and unzip it in ur folder of choice: ![Here](build/codezlang.zip)
+2. make sure the _internal folder is in the same directory as codezlang.exe !
+3. make an file with the name of your choice, make sure it has the .codezlang extension
+4. if the .codezlang file is next to codezlang.exe file, open the terminal or console in the directory
+5. type in this: codezlang.exe (your file name).codezlang
