@@ -4,7 +4,7 @@ import sys
 def args(_class):
  if len(sys.argv) > 1:
   temp = sys.argv[1].split(".")
-  if temp[1] == 'zlang':
+  if temp[1] == 'codezlang':
    with open(sys.argv[1], 'r') as f:
     _class.run(f.read())
 
